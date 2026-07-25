@@ -15,11 +15,10 @@
 
 ### About Me
 
-- B.Tech in **Artificial Intelligence**, Anurag University, Hyderabad (2022–2026)
+- B.Tech in **Artificial Intelligence**, Anurag University, Hyderabad (2022-2026)
 - Student Project Trainee at **National Remote Sensing Centre (NRSC), ISRO** - built a real-time CCTV anomaly detection system
 - Built a **SegNet**-based marine oil spill detector on SAR satellite imagery
-- Made an NLP based Resume Reviewer where one can upload their resume and get feedback on their resume 
-
+- Made an NLP based Resume Reviewer where one can upload their resume and get feedback on their resume
 
 ---
 
@@ -55,19 +54,19 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-** Marine Oil Spill Detection**
+**1. Marine Oil Spill Detection**
 `Python` `PyTorch` `SAR Satellite Data`
 
 SegNet-based segmentation model detecting oil spills in ocean SAR imagery (PALSAR, Sentinel-1). Evaluated on 1,615 image-mask pairs.
 
- 88.65% Accuracy · 77.17% F1 · 62.82% IoU · 94.04% Specificity
+88.65% Accuracy · 77.17% F1 · 62.82% IoU · 94.04% Specificity
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-** CCTV-Based Anomaly Detection**
+**2. CCTV-Based Anomaly Detection**
 `YOLOv8` `OpenCV` `MobileNet`
 
 Real-time multi-camera surveillance pipeline at NRSC-ISRO with posture estimation, person tracking, gender classification, and automated alert logging.
@@ -75,25 +74,24 @@ Real-time multi-camera surveillance pipeline at NRSC-ISRO with posture estimatio
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-** Employee Workforce Analysis**
+**3. Employee Workforce Analysis**
 `MySQL` `Power BI`
 
 HR analytics dashboard covering attrition and salary distribution, using CTEs, window functions, and aggregate SQL with interactive Power BI filters.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-** B.Tech in AI**
-`Anurag University` · 2022–2026
+**4. Resume Reviewer**
+`Python` `Streamlit` `NLP` `RegEx`
 
+Website that analyzes and scores resumes using NLP techniques. Implements keyword extraction, document parsing, and scoring to surface strengths and weaknesses with actionable feedback. Deployed on Streamlit.
 
 </td>
 </tr>
 </table>
-
----
 
 ---
 
@@ -113,7 +111,7 @@ HR analytics dashboard covering attrition and salary distribution, using CTEs, w
 
 ---
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
@@ -122,4 +120,3 @@ HR analytics dashboard covering attrition and salary distribution, using CTEs, w
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/rainbow.gif" width="100%" />
 </p>
-
