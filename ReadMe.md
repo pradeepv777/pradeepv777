@@ -57,7 +57,7 @@
 <tr>
 <td width="50%">
 
-**🛰️ Marine Oil Spill Detection**
+** Marine Oil Spill Detection**
 `Python` `PyTorch` `SAR Satellite Data`
 
 SegNet-based segmentation model detecting oil spills in ocean SAR imagery (PALSAR, Sentinel-1). Evaluated on 1,615 image-mask pairs.
@@ -67,7 +67,7 @@ SegNet-based segmentation model detecting oil spills in ocean SAR imagery (PALSA
 </td>
 <td width="50%">
 
-**📹 CCTV-Based Anomaly Detection**
+** CCTV-Based Anomaly Detection**
 `YOLOv8` `OpenCV` `MobileNet`
 
 Real-time multi-camera surveillance pipeline at NRSC-ISRO with posture estimation, person tracking, gender classification, and automated alert logging.
@@ -77,18 +77,17 @@ Real-time multi-camera surveillance pipeline at NRSC-ISRO with posture estimatio
 <tr>
 <td width="50%">
 
-**👥 Employee Workforce Analysis**
+** Employee Workforce Analysis**
 `MySQL` `Power BI`
 
-HR analytics dashboard covering attrition and salary distribution, using CTEs, window functions, and aggregate SQL — with interactive Power BI filters.
+HR analytics dashboard covering attrition and salary distribution, using CTEs, window functions, and aggregate SQL with interactive Power BI filters.
 
 </td>
 <td width="50%">
 
-**🎓 B.Tech in AI**
+** B.Tech in AI**
 `Anurag University` · 2022–2026
 
-CGPA 7.8 · Certified in AWS Cloud Foundations, Python Essentials, Data Analysis with Python, Network Security, and Java Fundamentals.
 
 </td>
 </tr>
@@ -124,4 +123,3 @@ CGPA 7.8 · Certified in AWS Cloud Foundations, Python Essentials, Data Analysis
   <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/rainbow.gif" width="100%" />
 </p>
 
-<p align="center"><i>Proudly built with 💙 by Pradeep Pediredla · Powered by <a href="https://gprm.itsvg.in">GPRM</a></i></p>
