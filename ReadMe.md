@@ -13,7 +13,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - B.Tech in **Artificial Intelligence**, Anurag University, Hyderabad (2022–2026)
 - Student Project Trainee at **National Remote Sensing Centre (NRSC), ISRO** - built a real-time CCTV anomaly detection system
@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -51,7 +51,7 @@
 
 ---
 
-### 🧠 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
@@ -62,7 +62,7 @@
 
 SegNet-based segmentation model detecting oil spills in ocean SAR imagery (PALSAR, Sentinel-1). Evaluated on 1,615 image-mask pairs.
 
-📈 88.65% Accuracy · 77.17% F1 · 62.82% IoU · 94.04% Specificity
+ 88.65% Accuracy · 77.17% F1 · 62.82% IoU · 94.04% Specificity
 
 </td>
 <td width="50%">
@@ -97,7 +97,7 @@ HR analytics dashboard covering attrition and salary distribution, using CTEs, w
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=pradeepv777&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false" height="165"/>
