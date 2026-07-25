@@ -1,18 +1,135 @@
-# 💫 About Me:
-I am Pediredla Pradeep : )
+<h1 align="center">Hi there 👋, I'm Pradeep Pediredla</h1>
+<h3 align="center">AI/ML Engineer | Computer Vision & Data Analytics Enthusiast</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+real-time+CV+systems+with+YOLOv8;Segmenting+SAR+images+to+detect+oil+spills;Turning+raw+HR+data+into+Power+BI+dashboards;Always+learning+%7C+Always+shipping" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pradeep.vv777@gmail.com) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pradeepv777&label=Profile%20Views&color=2F81F7&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:pradeep.vv777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+</p>
 
-# 💻 Tech Stack:
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=pradeepv777&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=pradeepv777&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pradeepv777&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
+
+### 🚀 About Me
+
+- 🎓 B.Tech in **Artificial Intelligence**, Anurag University, Hyderabad (2022–2026) — CGPA 7.8
+- 🛰️ Student Project Trainee at **National Remote Sensing Centre (NRSC), ISRO** — built a real-time CCTV anomaly detection system
+- 🌊 Built a **SegNet**-based marine oil spill detector on SAR satellite imagery (88.65% accuracy)
+- 📊 Love turning messy data into clean **SQL + Power BI** dashboards
+- ⚡ Fun fact: I've trained models on satellites *and* security cameras — space and street, covered
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+</p>
+
+---
+
+### 🧠 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🛰️ Marine Oil Spill Detection**
+`Python` `PyTorch` `SAR Satellite Data`
+
+SegNet-based segmentation model detecting oil spills in ocean SAR imagery (PALSAR, Sentinel-1). Evaluated on 1,615 image-mask pairs.
+
+📈 88.65% Accuracy · 77.17% F1 · 62.82% IoU · 94.04% Specificity
+
+</td>
+<td width="50%">
+
+**📹 CCTV-Based Anomaly Detection**
+`YOLOv8` `OpenCV` `MobileNet`
+
+Real-time multi-camera surveillance pipeline at NRSC-ISRO with posture estimation, person tracking, gender classification, and automated alert logging.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**👥 Employee Workforce Analysis**
+`MySQL` `Power BI`
+
+HR analytics dashboard covering attrition and salary distribution, using CTEs, window functions, and aggregate SQL — with interactive Power BI filters.
+
+</td>
+<td width="50%">
+
+**🎓 B.Tech in AI**
+`Anurag University` · 2022–2026
+
+CGPA 7.8 · Certified in AWS Cloud Foundations, Python Essentials, Data Analysis with Python, Network Security, and Java Fundamentals.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 Achievements & Certifications
+
+- 🥇 Network Security Associate Virtual Internship — **Fortinet** (Sep 2024)
+- 🥇 Python Essentials — **Cisco Networking Academy** (May 2025)
+- 🥇 Data Analysis with Python — **IBM SkillsBuild** (Feb 2025)
+- 🥇 AWS Academy Cloud Foundations — **Amazon Web Services** (Sep 2025)
+- 🥇 Fundamentals of Java — **Scaler** (Oct 2023)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=pradeepv777&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=pradeepv777&theme=blue_navy&hide_border=false" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pradeepv777&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepv777&theme=react-dark&hide_border=false" width="90%"/>
+</p>
+
+---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/rainbow.gif" width="100%" />
+</p>
+
+<p align="center"><i>Proudly built with 💙 by Pradeep Pediredla · Powered by <a href="https://gprm.itsvg.in">GPRM</a></i></p>
