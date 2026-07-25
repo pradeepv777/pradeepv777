@@ -15,11 +15,11 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in **Artificial Intelligence**, Anurag University, Hyderabad (2022–2026) — CGPA 7.8
-- 🛰️ Student Project Trainee at **National Remote Sensing Centre (NRSC), ISRO** — built a real-time CCTV anomaly detection system
-- 🌊 Built a **SegNet**-based marine oil spill detector on SAR satellite imagery (88.65% accuracy)
-- 📊 Love turning messy data into clean **SQL + Power BI** dashboards
-- ⚡ Fun fact: I've trained models on satellites *and* security cameras — space and street, covered
+- B.Tech in **Artificial Intelligence**, Anurag University, Hyderabad (2022–2026)
+- Student Project Trainee at **National Remote Sensing Centre (NRSC), ISRO** - built a real-time CCTV anomaly detection system
+- Built a **SegNet**-based marine oil spill detector on SAR satellite imagery
+- Made an NLP based Resume Reviewer where one can upload their resume and get feedback on their resume 
+
 
 ---
 
@@ -95,14 +95,6 @@ CGPA 7.8 · Certified in AWS Cloud Foundations, Python Essentials, Data Analysis
 </table>
 
 ---
-
-### 🏆 Achievements & Certifications
-
-- 🥇 Network Security Associate Virtual Internship — **Fortinet** (Sep 2024)
-- 🥇 Python Essentials — **Cisco Networking Academy** (May 2025)
-- 🥇 Data Analysis with Python — **IBM SkillsBuild** (Feb 2025)
-- 🥇 AWS Academy Cloud Foundations — **Amazon Web Services** (Sep 2025)
-- 🥇 Fundamentals of Java — **Scaler** (Oct 2023)
 
 ---
 
