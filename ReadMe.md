@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Pradeep Pediredla</h1>
-<h3 align="center">AI/ML Engineer | Computer Vision & Data Analytics Enthusiast</h3>
+<h3 align="center">AI/ML Engineer | Data Analytics Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+real-time+CV+systems+with+YOLOv8;Segmenting+SAR+images+to+detect+oil+spills;Turning+raw+HR+data+into+Power+BI+dashboards;Always+learning+%7C+Always+shipping" alt="Typing SVG" />
