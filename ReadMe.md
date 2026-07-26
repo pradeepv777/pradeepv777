@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Pradeep Pediredla</h1>
-<h3 align="center">AI/ML Engineer | Data Analytics Enthusiast</h3>
+<h3 align="center">Artificial Intelligence and Machine Learning Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+real-time+CV+systems+with+YOLOv8;Segmenting+SAR+images+to+detect+oil+spills;Turning+raw+HR+data+into+Power+BI+dashboards;Always+learning+%7C+Always+shipping" alt="Typing SVG" />
@@ -16,9 +16,9 @@
 ### About Me
 
 - B.Tech in **Artificial Intelligence**, Anurag University, Hyderabad (2022-2026)
-- Student Project Trainee at **National Remote Sensing Centre (NRSC), ISRO** - built a real-time CCTV anomaly detection system
 - Built a **SegNet**-based marine oil spill detector on SAR satellite imagery
 - Made an NLP based Resume Reviewer where one can upload their resume and get feedback on their resume
+- Built a **Realtime Markdown Editor** where one can see live preview of their markdown file 
 
 ---
 
@@ -79,7 +79,9 @@ Real-time multi-camera surveillance pipeline at NRSC-ISRO with posture estimatio
 **3. Employee Workforce Analysis**
 `MySQL` `Power BI`
 
-HR analytics dashboard covering attrition and salary distribution, using CTEs, window functions, and aggregate SQL with interactive Power BI filters.
+HR analytics dashboard covering attrition and salary distribution, using CTEs, window functions and aggregate SQL with interactive Power BI filters.
+
+Designed a Power BI dashboard featuring Workforce Overview, Attrition Analysis and Compensation Analysis with interactive filters.
 
 </td>
 <td width="50%" valign="top">
@@ -87,7 +89,9 @@ HR analytics dashboard covering attrition and salary distribution, using CTEs, w
 **4. Resume Reviewer**
 `Python` `Streamlit` `NLP` `RegEx`
 
-Website that analyzes and scores resumes using NLP techniques. Implements keyword extraction, document parsing, and scoring to surface strengths and weaknesses with actionable feedback. Deployed on Streamlit.
+Streamlit-based website that analyzes and scores resumes using NLP techniques. Implements keyword extraction, document parsing and scoring to showing strengths and weaknesses with feedback to improve resume.
+
+Link: [https://streamlit.app](https://streamlit.app)
 
 </td>
 </tr>
