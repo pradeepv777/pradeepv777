@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pradeepv777&label=Profile%20Views&color=2F81F7&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pradeep-pediredla-414363287"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="mailto:pradeep.vv777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
