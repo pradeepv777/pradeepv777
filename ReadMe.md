@@ -50,7 +50,7 @@
 
 ---
 
-### Featured Projects
+### **Projects**
 
 <table>
 <tr>
