@@ -91,7 +91,7 @@ Designed a Power BI dashboard featuring Workforce Overview, Attrition Analysis a
 
 Streamlit-based website that analyzes and scores resumes using NLP techniques. Implements keyword extraction, document parsing and scoring to showing strengths and weaknesses with feedback to improve resume.
 
-Link: [https://streamlit.app](https://streamlit.app)
+Link: [https://streamlit.app](https://reviewmyresume.streamlit.app/)
 
 </td>
 </tr>
