@@ -125,7 +125,7 @@ Designed a Power BI dashboard featuring Workforce Overview, Attrition Analysis a
 <td width="50%" valign="top">
 
 **6. Realtime Markdown Editor**
-`React` `Firebase` `WebSockets`
+`JavaScript` `WebSockets`
 
 Realtime collaborative Markdown editor with live preview, synchronized editing, and instant rendering for Markdown documents.
 
