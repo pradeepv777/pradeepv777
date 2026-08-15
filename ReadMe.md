@@ -17,9 +17,10 @@
 
 - B.Tech in **Artificial Intelligence**, Anurag University, Hyderabad (2022-2026)
 - Built and deployed a **Job Application Tracker Backend** using FastAPI, PostgreSQL, Docker and Render
-- Built a **SegNet**-based marine oil spill detector on SAR satellite imagery
+- Built a **SegNet-based marine oil spill detector** on SAR satellite imagery
 - Built an NLP-based **Resume Reviewer** that analyzes resumes and provides ATS-style feedback
-- Built a **Realtime Markdown Editor** with live preview support
+- Analyzed **1,470 employee records** to uncover workforce, attrition, and compensation insights using MySQL and Power BI
+- Analyzed **4.4M Uber pickup records** to identify demand patterns across time, dispatch bases, and geographic density
 
 ---
 
