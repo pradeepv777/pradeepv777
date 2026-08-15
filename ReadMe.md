@@ -116,21 +116,21 @@ https://reviewmyresume.streamlit.app/
 **5. Employee Workforce Analysis**
 `MySQL` `Power BI`
 
-HR analytics dashboard covering attrition and salary distribution, using CTEs, window functions and aggregate SQL with interactive Power BI filters.
+Analyzed **1,470 employee records** using 20+ SQL analyses with CTEs, subqueries, window functions, and aggregate queries to uncover workforce, attrition and compensation trends.
 
-Designed a Power BI dashboard featuring Workforce Overview, Attrition Analysis and Compensation Analysis with interactive filters.
-
+Found a **16.12% overall attrition rate**, with overtime employees attriting at nearly **3×** the rate of non-overtime employees. Built an interactive **4-page Power BI dashboard** for workforce, attrition, and compensation analysis.
 </td>
 
 <td width="50%" valign="top">
 
-**6. Realtime Markdown Editor**
-`JavaScript` `WebSockets`
+**6. Uber Trip Operations and Demand Analysis**
+`Python` `Pandas` `Matplotlib`
 
-Realtime collaborative Markdown editor with live preview, synchronized editing, and instant rendering for Markdown documents.
+Analyzed **4.4M Uber pickup records** from NYC (April-September 2014), covering data cleaning, feature engineering, and demand analysis.
+
+Identified **80.2% pickup growth**, peak demand at **17:00**, and generated visualizations for monthly, hourly, weekday, base-level, and geographic demand patterns.
 
 </td>
-</tr>
 
 </table>
 
@@ -139,12 +139,9 @@ Realtime collaborative Markdown editor with live preview, synchronized editing, 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=pradeepv777&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=pradeepv777&theme=blue_navy&hide_border=false" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pradeepv777&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=pradeepv777&theme=blue_navy&hide_border=false" height="165"/>
+  
 </p>
 
 <p align="center">
