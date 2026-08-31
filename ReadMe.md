@@ -16,11 +16,11 @@
 ### About Me
 
 - B.Tech in **Artificial Intelligence**, Anurag University, Hyderabad (2022-2026)
-- Built a **Retail Demand Forecasting and Promotion Analysis** project using LightGBM, classical time-series models and statistical analysis
 - Built a **SegNet-based marine oil spill detector** on SAR satellite imagery
+- Built a **Retail Demand Forecasting and Promotion Analysis** project using LightGBM, classical time-series models and statistical analysis
+- Analysed **1,470 employee records** to uncover workforce, attrition, and compensation insights using MySQL and Power BI
+- Analysed **4.4M Uber pickup records** to identify demand patterns across time, dispatch bases, and geographic density
 - Built an **NLP-based Resume Reviewer** that analyzes resumes and provides ATS-style feedback
-- Analyzed **1,470 employee records** to uncover workforce, attrition, and compensation insights using MySQL and Power BI
-- Analyzed **4.4M Uber pickup records** to identify demand patterns across time, dispatch bases, and geographic density
 
 ---
 
@@ -94,7 +94,7 @@ Real-time multi-camera surveillance pipeline developed at NRSC-ISRO across 7 liv
 
 Compared 5 forecasting models on Rossmann retail sales using a chronological 60-day test set. LightGBM achieved **71.15% lower MAE** and **70.71% lower RMSE** than SARIMA.
 
-Engineered lag, rolling, calendar and promotion features for demand forecasting and analyzed promotion-sales relationships across **844K open-store records** and **1,115 stores** using OLS regression.
+Engineered lag, rolling, calendar and promotion features for demand forecasting and Analysed promotion-sales relationships across **844K open-store records** and **1,115 stores** using OLS regression.
 
 </td>
 
@@ -104,7 +104,7 @@ Engineered lag, rolling, calendar and promotion features for demand forecasting 
 
 `MySQL` `Power BI`
 
-Analyzed **1,470 employee records** using 20+ SQL analyses with CTEs, subqueries, window functions, and aggregate queries to uncover workforce, attrition and compensation trends.
+Analysed **1,470 employee records** using 20+ SQL analyses with CTEs, subqueries, window functions, and aggregate queries to uncover workforce, attrition and compensation trends.
 
 Found a **16.12% overall attrition rate**, with overtime employees attriting at nearly **3×** the rate of non-overtime employees. Built an interactive **4-page Power BI dashboard**.
 
@@ -131,7 +131,7 @@ https://reviewmyresume.streamlit.app/
 
 `Python` `Pandas` `Matplotlib`
 
-Analyzed **4.4M Uber pickup records** from NYC (April-September 2014), covering data cleaning, feature engineering, and demand analysis.
+Analysed **4.4M Uber pickup records** from NYC (April-September 2014), covering data cleaning, feature engineering, and demand analysis.
 
 Identified **80.2% pickup growth**, peak demand at **17:00**, and visualized monthly, hourly, weekday, base-level, and geographic demand patterns.
 
