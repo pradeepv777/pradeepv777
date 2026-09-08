@@ -2,7 +2,7 @@
 <h3 align="center">Artificial Intelligence and Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+AI+and+Machine+Learning+projects;Analyzing+data+and+finding+business+insights;Building+Computer+Vision+solutions;Always+learning+%7C+Always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+AI+and+Machine+Learning+projects;Analyzing+data+and+f[...]"
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**1. Marine Oil Spill Detection**
+[**1. Marine Oil Spill Detection**](https://github.com/pradeepv777/marine-oil-spill-detection)
 
 `Python` `PyTorch` `SAR Satellite Data`
 
@@ -76,7 +76,7 @@ SegNet-based segmentation model detecting oil spills in ocean SAR imagery using 
 
 <td width="50%" valign="top">
 
-**2. CCTV-Based Anomaly Detection**
+[**2. CCTV-Based Anomaly Detection**](https://github.com/pradeepv777/cctv-anomaly-detection)
 
 `Python` `PyTorch` `OpenCV` `YOLOv8`
 
@@ -88,7 +88,7 @@ Real-time multi-camera surveillance pipeline developed at NRSC-ISRO across 7 liv
 <tr>
 <td width="50%" valign="top">
 
-**3. Retail Demand Forecasting & Promotion Analysis**
+[**3. Retail Demand Forecasting & Promotion Analysis**](https://github.com/pradeepv777/retail-demand-forecasting)
 
 `Python` `Pandas` `LightGBM` `Statsmodels` `Docker`
 
@@ -100,7 +100,7 @@ Engineered lag, rolling, calendar and promotion features for demand forecasting 
 
 <td width="50%" valign="top">
 
-**4. Employee Workforce Analysis**
+[**4. Employee Workforce Analysis**](https://github.com/pradeepv777/employee-workforce-analysis)
 
 `MySQL` `Power BI`
 
@@ -114,7 +114,7 @@ Found a **16.12% overall attrition rate**, with overtime employees attriting at 
 <tr>
 <td width="50%" valign="top">
 
-**5. Resume Reviewer**
+[**5. Resume Reviewer**](https://github.com/pradeepv777/resume-reviewer)
 
 `Python` `Streamlit` `NLP` `RegEx`
 
@@ -127,7 +127,7 @@ https://reviewmyresume.streamlit.app/
 
 <td width="50%" valign="top">
 
-**6. Uber Trip Operations and Demand Analysis**
+[**6. Uber Trip Operations and Demand Analysis**](https://github.com/pradeepv777/uber-trip-operations-demand-analysis)
 
 `Python` `Pandas` `Matplotlib`
 
