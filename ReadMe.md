@@ -2,7 +2,7 @@
 <h3 align="center">Artificial Intelligence and Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+AI+and+Machine+Learning+projects;Currently+learning+ML+Concepts"
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Hello+there!;Building+Machine+Learning+projects;"
 </p>
 
 <p align="center">
