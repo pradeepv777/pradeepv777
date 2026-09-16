@@ -16,11 +16,12 @@
 ### About Me
 
 - B.Tech in **Artificial Intelligence**, Anurag University, Hyderabad (2022-2026)
+- Developed a **Real-time CCTV Anomaly Detection system** at NRSC-ISRO using YOLOv8 pose estimation and 3D ResNet on live CCTV camera feeds
 - Built a **SegNet-based marine oil spill detector** on SAR satellite imagery
 - Built a **Retail Demand Forecasting and Promotion Analysis** project using LightGBM, classical time-series models and statistical analysis
 - Analysed **1,470 employee records** to uncover workforce, attrition, and compensation insights using MySQL and Power BI
+- Built a **Job Application Tracker REST API** using FastAPI, PostgreSQL, and JWT authentication with secure file uploads and analytics features
 - Analysed **4.4M Uber pickup records** to identify demand patterns across time, dispatch bases, and geographic density
-- Built an **NLP-based Resume Reviewer** that analyzes resumes and provides ATS-style feedback
 
 ---
 
@@ -80,7 +81,7 @@ SegNet-based segmentation model detecting oil spills in ocean SAR imagery using 
 
 `Python` `PyTorch` `OpenCV` `YOLOv8`
 
-Real-time multi-camera surveillance pipeline developed at NRSC-ISRO across 7 live camera feeds, using YOLOv8-pose for person tracking and a 3D ResNet-18 feature-distance model for anomaly detection.
+Real-time multi-camera surveillance pipeline developed at NRSC-ISRO on live CCTV camera feeds using YOLOv8-pose for person tracking and a 3D ResNet-18 feature-distance model for anomaly detection.
 
 </td>
 </tr>
@@ -114,14 +115,11 @@ Found a **16.12% overall attrition rate**, with overtime employees attriting at 
 <tr>
 <td width="50%" valign="top">
 
-[**5. Resume Reviewer**](https://github.com/pradeepv777/resume-reviewer)
+[**5. Job Application Tracker API**](https://github.com/pradeepv777/Job-Application-Tracker-API)
 
-`Python` `Streamlit` `NLP` `RegEx`
+`FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker` `JWT`
 
-Streamlit-based website that analyzes and scores resumes using NLP techniques. Implements keyword extraction, document parsing and scoring to identify strengths and weaknesses and provide feedback.
-
-**Live Demo:**  
-https://reviewmyresume.streamlit.app/
+A REST API for managing job applications, interviews, resume uploads and analytics. Implemented JWT authentication, secure file uploads, pagination, filtering, Docker containerization, Alembic database migrations.
 
 </td>
 
