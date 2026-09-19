@@ -103,11 +103,9 @@ Engineered lag, rolling, calendar and promotion features for demand forecasting 
 
 [**4. Employee Workforce Analysis**](https://github.com/pradeepv777/employee-workforce-analysis)
 
-`MySQL` `Power BI`
+`Python` `MySQL` `Power BI` 
 
-Analysed **1,470 employee records** using 20+ SQL analyses with CTEs, subqueries, window functions, and aggregate queries to uncover workforce, attrition and compensation trends.
-
-Found a **16.12% overall attrition rate**, with overtime employees attriting at nearly **3×** the rate of non-overtime employees. Built an interactive **4-page Power BI dashboard**.
+Analysed **1,470 employee records** through 30+ MySQL queries, Python statistical tests, and logistic regression to identify workforce and attrition drivers. Found overtime employees had **4.6× higher adjusted attrition odds**, with 51.5% of departures occurring within the first three years. Built a **4-page Power BI dashboard** using a star-schema model, DAX measures, slicers, and cross-filtering to communicate workforce, compensation, and retention insights.
 
 </td>
 </tr>
