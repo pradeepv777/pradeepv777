@@ -105,7 +105,7 @@ Engineered lag, rolling, calendar and promotion features for demand forecasting 
 
 `Python` `MySQL` `Power BI` 
 
-Analysed **1,470 employee records** through 30+ MySQL queries, Python statistical tests, and logistic regression to identify workforce and attrition drivers. Found overtime employees had **4.6× higher adjusted attrition odds**, with 51.5% of departures occurring within the first three years. Built a **4-page Power BI dashboard** using a star-schema model, DAX measures, slicers, and cross-filtering to communicate workforce, compensation, and retention insights.
+Analysed **1,470 employee records** through 30+ MySQL queries, Python statistical tests, and logistic regression to identify workforce and attrition drivers. Found overtime employees had **4.6× higher adjusted attrition odds**, with 51.5% of departures occurring within the first three years. Built a **4-page Power BI dashboard** showing workforce insights.
 
 </td>
 </tr>
