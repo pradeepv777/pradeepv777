@@ -2,7 +2,7 @@
 <h3 align="center">Artificial Intelligence and Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Hello+there!;Building+Machine+Learning+projects;"
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Hello+there!;Building+Machine+Learning+projects;" />
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@ Engineered lag, rolling, calendar and promotion features for demand forecasting 
 
 `Python` `MySQL` `Power BI` 
 
-Analysed **1,470 employee records** through 30+ MySQL queries, Python statistical tests, and logistic regression to identify workforce and attrition drivers. Found overtime employees had **4.6× higher adjusted attrition odds**, with 51.5% of departures occurring within the first three years. Built a **4-page Power BI dashboard** showing workforce insights.
+Analysed **1,470 employee records** through 30+ MySQL queries, Python statistical tests, and logistic regression to identify workforce and attrition drivers. Found overtime employees had **4.6× higher attrition**.
 
 </td>
 </tr>
