@@ -145,10 +145,6 @@ Identified **80.2% pickup growth**, peak demand at **17:00**, and visualized mon
   <img src="https://streak-stats.demolab.com/?user=pradeepv777&theme=blue_navy&hide_border=false" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepv777&theme=react-dark&hide_border=false" width="90%"/>
-</p>
-
 ---
 
 ### Random Dev Quote
