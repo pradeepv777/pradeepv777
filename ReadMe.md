@@ -104,7 +104,7 @@ Engineered lag, rolling, calendar and promotion features for demand forecasting 
 
 `Python` `MySQL` `Power BI` 
 
-Analysed **1,470 employee records** through 30+ MySQL queries, Python statistical tests, and logistic regression to identify workforce and attrition drivers. Found overtime employees had **4.6× higher attrition**.
+Analysed **1,470 employee records** through 30+ MySQL queries, Python statistical tests, and logistic regression to identify workforce and attrition drivers. Found overtime employees had **4.6× higher** attrition risk and compensation gaps by role and tenure.
 
 </td>
 </tr>
@@ -116,7 +116,7 @@ Analysed **1,470 employee records** through 30+ MySQL queries, Python statistica
 
 `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker` `JWT`
 
-A REST API for managing job applications, interviews, resume uploads and analytics. Implemented JWT authentication, secure file uploads, pagination, filtering, Docker containerization, Alembic database migrations.
+A REST API for managing job applications, interviews, resume uploads and analytics. Implemented JWT authentication, secure file uploads, pagination, filtering, Docker containerization, Alembic database migrations, and structured analytics dashboards.
 
 </td>
 
@@ -140,7 +140,7 @@ Identified **80.2% pickup growth**, peak demand at **17:00**, and visualized mon
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pradeepv777&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepv777&theme=blue_navy&hide_border=false&layout=compact" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=pradeepv777&theme=blue_navy&hide_border=false" height="165"/>
 </p>
 
